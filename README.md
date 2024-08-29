@@ -10,4 +10,4 @@ Passo 2:
 
 Passo 3:
 
-Para rodar o código, basta selecionar o código da questão que deseja junto com a primeira linha para que seja possível realizar o prompt, e inicializar o código no botão Run presente no canto superior direito ou apertar "Ctrl + Alt + N".
+Para rodar o código, basta ter a primeira linha do arquivo já escrita em seu código e selecionar o código da questão que deseja, após isso inicialize o código no botão Run presente no canto superior direito ou apertar "Ctrl + Alt + N".
