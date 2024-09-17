@@ -11,3 +11,7 @@ Passo 2:
 Passo 3:
 
 Para rodar o código, basta ter a primeira linha do arquivo já escrita em seu código e selecionar o código da questão que deseja copia-lo e cola-lo em seu arquivo, após isso inicialize o código no botão Run presente no canto superior direito ou apertar "Ctrl + Alt + N".
+
+Lista 2:
+
+Para executar os códigos do exercicio basta seguir os mesmos passos, porem copiando e colando os codigos do arquivo exercicios2.js.
